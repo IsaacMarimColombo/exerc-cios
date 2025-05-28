@@ -1,0 +1,72 @@
+[
+  {
+    "nome": "Ana",
+    "sobrenome": "Souza",
+    "email": "ana.souza@empresa.com",
+    "idade": 29,
+    "salario": 4500.00
+  },
+  {
+    "nome": "Carlos",
+    "sobrenome": "Oliveira",
+    "email": "carlos.oliveira@empresa.com",
+    "idade": 34,
+    "salario": 5200.00
+  },
+  {
+    "nome": "Mariana",
+    "sobrenome": "Alves",
+    "email": "mariana.alves@empresa.com",
+    "idade": 41,
+    "salario": 6300.00
+  },
+  {
+    "nome": "Ricardo",
+    "sobrenome": "Pereira",
+    "email": "ricardo.pereira@empresa.com",
+    "idade": 37,
+    "salario": 5800.00
+  },
+  {
+    "nome": "Fernanda",
+    "sobrenome": "Costa",
+    "email": "fernanda.costa@empresa.com",
+    "idade": 26,
+    "salario": 3900.00
+  },
+  {
+    "nome": "João",
+    "sobrenome": "Mendes",
+    "email": "joao.mendes@empresa.com",
+    "idade": 32,
+    "salario": 4700.00
+  },
+  {
+    "nome": "Patrícia",
+    "sobrenome": "Lima",
+    "email": "patricia.lima@empresa.com",
+    "idade": 45,
+    "salario": 7200.00
+  },
+  {
+    "nome": "Thiago",
+    "sobrenome": "Silva",
+    "email": "thiago.silva@empresa.com",
+    "idade": 38,
+    "salario": 5600.00
+  },
+  {
+    "nome": "Juliana",
+    "sobrenome": "Barros",
+    "email": "juliana.barros@empresa.com",
+    "idade": 30,
+    "salario": 5000.00
+  },
+  {
+    "nome": "Eduardo",
+    "sobrenome": "Nascimento",
+    "email": "eduardo.nascimento@empresa.com",
+    "idade": 27,
+    "salario": 4200.00
+  }
+]
