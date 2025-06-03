@@ -4,5 +4,11 @@
         "modelo": "Civic g10",
         "ano": 2024,
         "cor": "Preto"
+    },
+    {
+        "marca": "Hyundai",
+        "modelo": "HB20",
+        "ano": 2019,
+        "cor": "Azul"
     }
 ]
